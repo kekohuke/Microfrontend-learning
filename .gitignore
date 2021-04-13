@@ -1,0 +1,19 @@
+# dependencies
+*node_modules/
+
+# production
+client/build
+debug.log
+
+# misc
+.DS_Store
+.vscode
+package-lock.json
+client/.env
+client/.DS_Store
+client/package-lock.json
+
+*.DS_Store
+*.env
+*.vscode
+*creds.json
