@@ -1,4 +1,6 @@
 name: deploy-container
+    with:
+        ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 
 on:
     push:
