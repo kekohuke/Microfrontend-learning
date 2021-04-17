@@ -5,19 +5,11 @@ import Header from './components/Header';
 
 export default () => {
     return (
-<<<<<<< HEAD
-        <div>
-            <h1>Hi there! I am container~~ big change</h1>
-            <hr />
-            <MarketingApp />
-        </div>
-=======
         <BrowserRouter>
             <div>
                 <Header />
                 <MarketingApp />
             </div>
         </BrowserRouter>
->>>>>>> master
     );
 };
