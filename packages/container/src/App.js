@@ -7,7 +7,7 @@ export default () => {
     return (
 <<<<<<< HEAD
         <div>
-            <h1>Hi there! I am container~~</h1>
+            <h1>Hi there! I am container~~ big change</h1>
             <hr />
             <MarketingApp />
         </div>
